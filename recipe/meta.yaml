@@ -1,5 +1,5 @@
 {% set name = "napari-btrack-reader" %}
-{% set version = "0.1.0" %}
+{% set version = "1.0.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/napari-btrack-reader-{{ version }}.tar.gz
-  sha256: 484fcb17fcd58a0a1defe04813cc44decb255a7687f4e3cca3e861903758ac6b
+  sha256: 8d34a5d3c5a8b7d18b46f3059cceaa00da650b8d53e075ea0981217aaec7bcf1
 
 build:
   noarch: python

@@ -1,11 +1,11 @@
-About napari-btrack-reader
-==========================
+About napari-btrack-reader-feedstock
+====================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-btrack-reader-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/quantumjot/napari-btrack-reader
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/napari-btrack-reader-feedstock/blob/main/LICENSE.txt)
 
 Summary: A plugin to load btrack files
 
